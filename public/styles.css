@@ -1,0 +1,17 @@
+body {
+    background-color:darkgray;
+
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: aquamarine;
+    padding: 2em;
+    background-color: beige;
+    border-radius: 1em;
+}
+.radio {
+    background-color: aquamarine;
+    padding: 1em;
+    list-style-type: lower-alpha;
+}
